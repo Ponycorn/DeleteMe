@@ -1,2 +1,2 @@
 syntax on
-set darkbackground=on
+set background=dark
